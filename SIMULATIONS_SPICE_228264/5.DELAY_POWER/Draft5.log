@@ -1,0 +1,80 @@
+Circuit: * C:\Users\george\Desktop\5.DELAY_POWER\Draft5.asc
+
+Instance "m4": Length shorter than recommended for a level 1 MOSFET.
+Instance "m4": Width narrower than recommended for a level 1 MOSFET.
+Instance "m2": Length shorter than recommended for a level 1 MOSFET.
+Instance "m2": Width narrower than recommended for a level 1 MOSFET.
+Instance "m3": Length shorter than recommended for a level 1 MOSFET.
+Instance "m3": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1": Width narrower than recommended for a level 1 MOSFET.
+Direct Newton iteration for .op point succeeded.
+.step x=1e-014
+.step x=2e-014
+.step x=3e-014
+.step x=4e-014
+.step x=5e-014
+.step x=6e-014
+.step x=7e-014
+.step x=8e-014
+.step x=9e-014
+.step x=1e-013
+.step x=1.1e-013
+.step x=1.2e-013
+.step x=1.3e-013
+.step x=1.4e-013
+.step x=1.5e-013
+.step x=1.6e-013
+.step x=1.7e-013
+.step x=1.8e-013
+.step x=1.9e-013
+.step x=2e-013
+.step x=2.1e-013
+.step x=2.2e-013
+.step x=2.3e-013
+.step x=2.4e-013
+.step x=2.5e-013
+.step x=2.6e-013
+.step x=2.7e-013
+.step x=2.8e-013
+.step x=2.9e-013
+.step x=3e-013
+.step x=3.1e-013
+.step x=3.2e-013
+.step x=3.3e-013
+.step x=3.4e-013
+.step x=3.5e-013
+.step x=3.6e-013
+.step x=3.7e-013
+.step x=3.8e-013
+.step x=3.9e-013
+.step x=4e-013
+.step x=4.1e-013
+.step x=4.2e-013
+.step x=4.3e-013
+.step x=4.4e-013
+.step x=4.5e-013
+.step x=4.6e-013
+.step x=4.7e-013
+.step x=4.8e-013
+.step x=4.9e-013
+.step x=5e-013
+
+Date: Tue Jun 25 02:28:09 2019
+Total elapsed time: 9.131 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2875
+traniter = 2846
+tranpoints = 1210
+accept = 1167
+rejected = 43
+matrix size = 8
+fillins = 0
+solver = Normal
+Matrix Compiler1: 228 bytes object code size  0.3/0.4/[0.2]
+Matrix Compiler2:      47 opcodes  0.4/[0.3]/0.4
+
+

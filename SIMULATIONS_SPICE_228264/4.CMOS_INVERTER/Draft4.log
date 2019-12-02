@@ -1,0 +1,34 @@
+Circuit: * C:\Users\george\Desktop\4.CMOS_INVERTER\Draft4.asc
+
+Instance "m2": Length shorter than recommended for a level 1 MOSFET.
+Instance "m2": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1": Width narrower than recommended for a level 1 MOSFET.
+V2: Missing value, assumed 0V @ DC
+.step x=30
+.step x=60
+.step x=90
+.step x=120
+.step x=150
+.step x=180
+.step x=210
+.step x=240
+
+Date: Tue Jun 25 02:27:15 2019
+Total elapsed time: 1.257 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 695
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 5
+fillins = 0
+solver = Normal
+Matrix Compiler1: 132 bytes object code size  0.2/0.1/[0.1]
+Matrix Compiler2: 335 bytes object code size  0.2/0.2/[0.1]
+
+
